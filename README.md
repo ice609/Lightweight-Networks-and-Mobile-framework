@@ -26,6 +26,6 @@ offline 方式：在服务器上进行训练的过程，在手机上进行预测
 7.轻量级深度学习网络(七）:详解轻量级网络总结               https://blog.csdn.net/chenyuping333/article/details/81624593
 
 
-综述：http://ai.51cto.com/art/201805/573314.htm
+主流移动端深度学习框架综述                                http://ai.51cto.com/art/201805/573314.htm
 
-百度 MDL简介——CSDN   https://blog.csdn.net/weixin_34344677/article/details/86721344
+百度 MDL简介——CSDN                                      https://blog.csdn.net/weixin_34344677/article/details/86721344
