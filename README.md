@@ -7,6 +7,6 @@ online 方式：移动端做初步预处理，把数据传到服务器执行深�
 
 offline 方式：在服务器上进行训练的过程，在手机上进行预测的过程。
 
-![1](https://github.com/ice609/Mobile-deep-learning-framework/blob/master/contrast.jpeg)
+![111](https://github.com/ice609/Mobile-deep-learning-framework/blob/master/contrast.jpeg)
 
 Introduction Link：http://ai.51cto.com/art/201805/573314.htm
