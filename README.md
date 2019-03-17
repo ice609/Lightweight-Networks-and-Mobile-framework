@@ -17,6 +17,10 @@ Reference③   https://github.com/timctho/mobilenet-v2-tensorflow
 
 3.轻量级深度学习网络(三）:详解轻量级网络SqueezeNet         https://blog.csdn.net/chenyuping333/article/details/81624186
 
+Reference①   https://github.com/rcmalli/keras-squeezenet
+
+Reference②   https://github.com/DT42/squeezenet_demo
+
 4.轻量级深度学习网络(四）:详解轻量级网络ShuffleNet         https://blog.csdn.net/chenyuping333/article/details/81624544
 
 5.轻量级深度学习网络(五）:详解轻量级网络Xception           https://blog.csdn.net/chenyuping333/article/details/81624573
